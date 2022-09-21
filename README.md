@@ -50,3 +50,16 @@ vim 에서 문서 비정상적 종료 되었을 경우
 > - 이 경우, 메세지에 출력되는 .파일명.txt.swp 파일 삭제
 > - rm.파일명.txt.swp로 지우거나, 디렉토리에서 바로 삭제
 
+
+### commit
+
+#### 정의
+- The "commit" commend is used to save your changes to the local repository.
+- 커밋 하나는 독립적인 버전을 나타냄
+- The git commit command captures a snapshot of the project's currently staged changes.
+- 스냅샷(사진)과 유사
+
+#### 언제 커밋을 만드는가?
+- logical한 변경이 있을 때 만듦
+- 가능하다면 커밋 단위는 작을 수록 좋음 (rollback을 위함)
+
