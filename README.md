@@ -63,3 +63,9 @@ vim 에서 문서 비정상적 종료 되었을 경우
 - logical한 변경이 있을 때 만듦
 - 가능하다면 커밋 단위는 작을 수록 좋음 (rollback을 위함)
 
+
+### Git ignore
+`.gitignore`이란?
+> - Project에 원하지 않는 Backup File이나 Log File , 혹은 컴파일 된 파일들을 Git에서 제외시킬수 있는 설정 File이다.
+> - 운영 체계, 사용 툴, 언어 선택
+> - https://www.toptal.com/developers/gitignore
