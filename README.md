@@ -79,7 +79,7 @@ vim 에서 문서 비정상적 종료 되었을 경우
 
 <details>
 <summary>2023-07-24</summary>
-  - Atomic Habits 1챕터 -> Good Habits, Bad Habits
-  - html 문법 -> 토글 만들기 (details)
-  - 시간 관리 타임 트래커
+  - Atomic Habits 1챕터 -> Good Habits, Bad Habits  
+  - html 문법 -> 토글 만들기 (details)  
+  - 시간 관리 타임 트래커  
 </details>
