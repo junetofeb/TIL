@@ -1,6 +1,8 @@
 # TIL 
 
-## 2022-09-21
+<details>
+<summary>2022-09-21</summary>
+
 
 ### 1. 리눅스 커맨드라인 기초
 ```
@@ -69,3 +71,5 @@ vim 에서 문서 비정상적 종료 되었을 경우
 > - Project에 원하지 않는 Backup File이나 Log File , 혹은 컴파일 된 파일들을 Git에서 제외시킬수 있는 설정 File이다.
 > - 운영 체계, 사용 툴, 언어 선택
 > - https://www.toptal.com/developers/gitignore
+
+</details>
