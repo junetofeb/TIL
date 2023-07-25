@@ -83,7 +83,7 @@ vim 에서 문서 비정상적 종료 되었을 경우
 - Atomic Habits 1챕터 -> Good Habits, Bad Habits  <br>
 - html 문법 -> 토글 만들기 (details)  <br>
 - 시간 관리 타임 트래커
-- 
+
 </details>
 
 
@@ -91,8 +91,9 @@ vim 에서 문서 비정상적 종료 되었을 경우
 <summary>2023-07-25</summary>
   
 - vscode 에 git bash 기본 터미널 설정 변경
-> - git bash 터미널 vscode 바깥에 뜨는 문제 해결
+    - git bash 터미널 vscode 바깥에 뜨는 문제 해결
 - git clone & commit & push 구조 떠올리기
 - 신체 교정 운동
   
 </details>
+
