@@ -87,5 +87,8 @@ vim 에서 문서 비정상적 종료 되었을 경우
 
 <details>
 <summary>2023-07-25</summary>
-- test 
+- vscode 에 git bash 기본 터미널 설정 변경
+> - git bash 터미널 vscode 바깥에 뜨는 문제 해결
+- git clone & commit & push 구조 떠올리기
+- 신체 교정 운동
 </details>
