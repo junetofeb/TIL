@@ -109,9 +109,19 @@ vim 에서 문서 비정상적 종료 되었을 경우
 </details>
 
 
-
 <details>
 <summary>2023-07-27</summary>
+  
+- 주니어 데이터 분석가 모임 참석
+    - 데잇걸즈, 지난 6개월 회고, 앞으로의 6개월 계획
+  
+</details>
+
+
+
+
+<details>
+<summary>2023-07-28</summary>
   
 - 개인 과제 발전안
 - 타임 트래커
@@ -121,10 +131,21 @@ vim 에서 문서 비정상적 종료 되었을 경우
 
 
 <details>
-<summary>2023-07-29</summary>
+<summary>2023-07-30</summary>
   
 - 타임 트래커
 - 가족과 시간 보내기
+- 내 삶 돌봄, 감사일기
+  
+</details>
+
+
+
+<details>
+<summary>2023-07-31</summary>
+  
+- 타임 트래커
+- 운동, 신체 교정
 - 내 삶 돌봄, 감사일기
   
 </details>
