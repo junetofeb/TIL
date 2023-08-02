@@ -149,3 +149,24 @@ vim 에서 문서 비정상적 종료 되었을 경우
 - 내 삶 돌봄, 감사일기
   
 </details>
+
+
+<details>
+<summary>2023-08-01</summary>
+  
+- 타임 트래커
+- 시뮬레이터 > 깃 브랜치, 머지, 풀 리퀘스트 (for 협업)
+  
+</details>
+
+
+
+
+<details>
+<summary>2023-08-02</summary>
+  
+- 타임 트래커
+- python 프로그래밍, 깃으로 협업 익숙해지기
+- 삶 돌보기 (to do)
+  
+</details>
