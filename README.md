@@ -170,3 +170,13 @@ vim 에서 문서 비정상적 종료 되었을 경우
 - 삶 돌보기 (to do)
   
 </details>
+
+
+<details>
+<summary>2023-08-03</summary>
+  
+- 타임 트래커
+- python 프로그래밍 (딕셔너리), 깃 명령어
+- 삶 돌보기 (to do)
+  
+</details>
