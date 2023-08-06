@@ -180,3 +180,32 @@ vim 에서 문서 비정상적 종료 되었을 경우
 - 삶 돌보기 (to do)
   
 </details>
+
+
+<details>
+<summary>2023-08-04</summary>
+  
+- 타임 트래커
+- 삶 돌보기 (to do)
+  
+</details>
+
+
+<details>
+<summary>2023-08-05</summary>
+  
+- 타임 트래커
+- 업무 develop
+    - 타임트래커 주니어 플래너 챌린지 참여
+  
+</details>
+
+<details>
+<summary>2023-08-06</summary>
+  
+- 타임 트래커
+- 업무 develop
+    - 타임트래커 주니어 플래너 챌린지 참여
+    - excel 데이터 도구 사용
+  
+</details>
