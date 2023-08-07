@@ -209,3 +209,15 @@ vim 에서 문서 비정상적 종료 되었을 경우
     - excel 데이터 도구 사용
   
 </details>
+
+<details>
+<summary>2023-08-07</summary>
+  
+- 주니어 플래너 (타임트래커 체험단)
+- 업무 develop
+    - python class 이해
+        - https://rebro.kr/133
+        - 내 언어로 정리하고, 시뮬 코드에 적용 필요
+- 운동 (pt)        
+  
+</details>
