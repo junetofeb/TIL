@@ -268,3 +268,15 @@ vim 에서 문서 비정상적 종료 되었을 경우
     - 짐 정리, 몸 건강 챙기기
   
 </details>
+
+
+
+<details>
+<summary>2023-08-13</summary>
+  
+- 주니어 트래커
+- python develop
+    - 함수 안에서 함수 호출하기
+    - 기능 class로 묶기
+  
+</details>
