@@ -495,6 +495,9 @@ vim 에서 문서 비정상적 종료 되었을 경우
     - 단순 저장으로 안 될 때 명령어
         - git add -A
         - ctrl + s test
+<<<<<<< HEAD
         - ignore 파일 삭제
+=======
+>>>>>>> test
 
 </details>
