@@ -741,8 +741,27 @@ vim 에서 문서 비정상적 종료 되었을 경우
 - 지적 시간 : 채용 과제
 </details>
 
+
 <details>
 <summary>2023-10-05</summary>
 
 - 지적 시간 : 채용 과제
 </details>
+
+
+
+<details>
+<summary>2023-10-06</summary>
+
+- 지적 시간 : 채용 과제
+</details>
+
+
+
+
+<details>
+<summary>2023-10-06</summary>
+
+- 지적 시간 : 트래커스 열정상, 트래커스 서포터 회의
+</details>
+
