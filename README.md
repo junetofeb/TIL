@@ -806,18 +806,9 @@ vim 에서 문서 비정상적 종료 되었을 경우
 
 
 <details>
-<summary>2023-10-12</summary>
-
-- 지적 시간 : 면접 준비
-</details>
-
-
-
-<details>
 <summary>2023-10-13</summary>
 
 - 지적 시간 : 면접 준비
-- 영적 시간 : 냉장고 정리, 무한한 서포트를 돕는 옆 사람에게 감사
 </details>
 
 
@@ -826,5 +817,21 @@ vim 에서 문서 비정상적 종료 되었을 경우
 <summary>2023-10-14</summary>
 
 - 지적 시간 : 면접 준비
+- 영적 시간 : 냉장고 정리, 무한한 서포트를 돕는 옆 사람에게 감사
+</details>
+
+
+
+<details>
+<summary>2023-10-15</summary>
+
+- 지적 시간 : 면접 준비
 - 영적 시간 : 무한한 서포트를 돕는 옆 사람에게 감사!
+</details>
+
+
+<details>
+<summary>2023-10-16</summary>
+
+- 지적 시간 : 면접 준비, 화상 연습
 </details>
