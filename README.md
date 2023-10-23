@@ -842,3 +842,10 @@ vim 에서 문서 비정상적 종료 되었을 경우
 
 - 지적 시간 : 면접, 지원
 </details>
+
+
+<details>
+<summary>2023-10-23</summary>
+
+- 영적 시간 : 운동(필라테스)
+</details>
