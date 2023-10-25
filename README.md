@@ -849,3 +849,9 @@ vim 에서 문서 비정상적 종료 되었을 경우
 
 - 영적 시간 : 운동(필라테스)
 </details>
+
+<details>
+<summary>2023-10-25</summary>
+
+- 영적 시간 : 운동(피티)
+</details>
